@@ -1,6 +1,14 @@
-# Computer Networks Phase 1 — Private DNS, HTTPS Reverse Proxy and Load Balancing
+# Computer Networks Project - Private DNS, HTTPS Reverse Proxy and Load Balancing
 
 **Team Newts**
+
+## Phase 2 readiness pack
+
+The completed session is documented in the [Phase 2 final report](docs/phase2-report.md) and [capture index](evidence/07-phase2/README.md). The Phase 2 configuration bundle uses the session addresses: DNS `10.7.21.112`, edge `10.7.12.112`, Backend A/backup DNS/standby edge `10.7.26.162`, and Backend B `10.7.13.255`. See the report for evidence limitations, including the cache-flush recapture.
+
+Phase 2 operating material is prepared in the [field guide](docs/phase2-field-guide.md). It includes the fixed team map, execution gates, evidence checklist, fastest demonstration path, troubleshooting ladder, rollback checklist, and viva answers. Ready-to-copy primary/backup DNS, primary/standby nginx, and per-backend firewall configurations are under `configs/`. Use the [report template](docs/phase2-report-template.md) only after replacing every bracketed field with observed results from the live run.
+
+Phase 2 observations are limited to the supplied captures and are distinguished from team-reported actions in the final report.
 
 ## Team
 

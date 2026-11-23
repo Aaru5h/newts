@@ -1,5 +1,7 @@
 # Phase 1 Evidence Manifest
 
+Phase 2 is indexed separately in [the Phase 2 evidence directory](evidence/07-phase2/README.md), with a [final report](docs/phase2-report.md). Phase 1 addresses and observations below are historical.
+
 This manifest maps every submitted evidence artifact to its purpose and the README section that cites it. Generated documentation/status files are listed separately.
 
 ## Source and packet capture
